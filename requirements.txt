@@ -1,0 +1,10 @@
+datasets
+transformers
+torch
+scikit-learn
+pandas
+numpy
+tqdm
+accelerate
+sentencepiece
+protobuf
